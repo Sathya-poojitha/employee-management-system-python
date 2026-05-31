@@ -72,7 +72,7 @@ python employee_management.py
 
 ## Output Screenshot
 
-![Project Output](Employee_Management_System/project_output.png)
+![Project Output](Employee_Management_System/project_output.jpeg)
 
 ## Sample Output
 
