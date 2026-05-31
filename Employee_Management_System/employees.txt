@@ -1,0 +1,2 @@
+EMP101,Sathya,IT,35000
+EMP102,Poojitha,HR,40000
